@@ -16,8 +16,6 @@ function Error() {
 		message = "Could not found the page or resource";
 	}
 
-	console.log(error);
-
 	return (
 		<>
 			<MainNavigation />
